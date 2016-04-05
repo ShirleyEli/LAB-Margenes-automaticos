@@ -1,0 +1,14 @@
+div{
+	height: 180px;
+	width: 230px;
+    padding: 15px;
+    border: 20px solid yellow;
+}
+#Sh {
+    text-align: left;
+    margin-left: 600px;
+}
+#Po{
+    text-align: center;
+    margin-right: auto;
+}
